@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ###############################################################################
-# Author: Aruun Sriram
+# Author: Faizul Rahman
 # Version: v0.0.1
 
 # Script to automate the process of listing all the resources in an AWS account
